@@ -1,0 +1,35 @@
+Cálculo da titulação
+
+Valor da titulação = variável
+56,11 = constante 
+100= constante 
+20.000= constante 
+
+Equação 
+
+(Valor da titulação x 56,11 x 100 ) / 20.000
+
+Líquido Combinado 
+
+ABS = variável 
+100= constante 
+25= constante 
+0,2 = constante 
+Massa = variável 
+2870= constante 
+
+Esquaçao 
+
+(((Abs x 100 x 25) ÷ 0,2) ÷ massa) ÷ 2870
+
+
+CÁLCULO DO KOH 20% 
+
+
+Mesma coisa (Titulação) 
+Só que tem um vezes 10 no final de tudo
+
+
+CÁLCULO DO KOH 45% 
+
+Mesma equação(titulação) só que vezes 20 no final
